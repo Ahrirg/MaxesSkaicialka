@@ -1,2 +1,2 @@
 # MaxesSkaicialka
-Skaiciuoja Maksima
+Skaiciuoja Maksimos chekius
